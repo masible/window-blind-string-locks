@@ -11,3 +11,7 @@ Optionally remove the countersink hole for the wood screw by setting
 
 ![model 1](images/model-1.png)
 ![model 2](images/model-2.png)
+
+## License
+
+This work is licensed under a [Creative Commons (4.0 International License) Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/).
